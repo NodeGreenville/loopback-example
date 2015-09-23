@@ -3,10 +3,6 @@
     "name": "db",
     "connector": "memory"
   },
-  "postgresDs": {
-    "name": "postgresDs",
-    "connector": "postgresql"
-  },
   "mysqlDs": {
     "name": "mysqlDs",
     "connector": "mysql",
